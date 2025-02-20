@@ -4,6 +4,9 @@ This is Movie Recommendation System Project
 
 ![WhatsApp Image 2025-02-20 at 23 39 27_374e8474](https://github.com/user-attachments/assets/595ce0dd-3df6-47fb-9c31-faae3e30d78e)
 
+![WhatsApp Image 2025-02-21 at 00 00 27_7aed98be](https://github.com/user-attachments/assets/a6b11780-fb9c-4044-9fc3-a6ac64e8bf28)
+
+
 ![WhatsApp Image 2025-02-20 at 23 43 06_55447027](https://github.com/user-attachments/assets/24296f96-31c2-4306-a87c-7894b4a698c1)
 
 ![WhatsApp Image 2025-02-20 at 23 46 22_234e1107](https://github.com/user-attachments/assets/756abd25-d112-4cbb-bd45-ee28764c732b)
