@@ -3,3 +3,11 @@ This is Movie Recommendation System Project
 
 
 ![WhatsApp Image 2025-02-20 at 23 39 27_374e8474](https://github.com/user-attachments/assets/595ce0dd-3df6-47fb-9c31-faae3e30d78e)
+
+![WhatsApp Image 2025-02-20 at 23 43 06_55447027](https://github.com/user-attachments/assets/24296f96-31c2-4306-a87c-7894b4a698c1)
+
+![WhatsApp Image 2025-02-20 at 23 46 22_234e1107](https://github.com/user-attachments/assets/756abd25-d112-4cbb-bd45-ee28764c732b)
+
+![WhatsApp Image 2025-02-20 at 23 47 41_f9eda9aa](https://github.com/user-attachments/assets/92bd36ac-2b21-482c-95f1-9fe8185833c5)
+
+![WhatsApp Image 2025-02-20 at 23 48 01_405d4dba](https://github.com/user-attachments/assets/c3e65c29-1905-40a4-87d2-99e6ad5ea609)
